@@ -1,0 +1,19 @@
+function clickvi() {
+    window.alert("Euphorbia milii, the crown of thorns, Christ plant, or Christ thorn, is a species of flowering plant in the spurge family Euphorbiaceae, native to Madagascar. The species name commemorates Baron Milius, once Governor of Réunion, who introduced the species to France in 1821. It is imagined that the species was introduced to the Middle East in ancient times, and legend associates it with the crown of thorns worn by Christ. It is commonly used as an ornamental houseplant that can be grown in warmer climates. The common name is due to the thorns and deep red bracts referring to the crown thorn Jesus had to wear during his crucification and his blood.");
+}
+function clicki() {
+    window.alert("A rose is a woody perennial flowering plant of the genus Rosa, in the family Rosaceae, or the flower it bears. There are over three hundred species and tens of thousands of cultivars. They form a group of plants that can be erect shrubs, climbing, or trailing, with stems that are often armed with sharp prickles. Flowers vary in size and shape and are usually large and showy, in colours ranging from white through yellows and reds. Most species are native to Asia, with smaller numbers native to Europe, North America, and northwestern Africa. Species, cultivars and hybrids are all widely grown for their beauty and often are fragrant. Roses have acquired cultural significance in many societies. Rose plants range in size from compact, miniature roses, to climbers that can reach seven meters in height. Different species hybridize easily, and this has been used in the development of the wide range of garden roses.");
+}
+function clickii() {
+    window.alert("Catharanthus roseus, commonly known as bright eyes, Cape periwinkle, graveyard plant, Madagascar periwinkle, old maid, pink periwinkle, rose periwinkle, is a species of flowering plant in the family Apocynaceae. It is native and endemic to Madagascar, but grown elsewhere as an ornamental and medicinal plant. It is a source of the drugs vincristine and vinblastine, used to treat cancer. It was formerly included in the genus Vinca as Vinca rosea. This one is a White species.");
+}
+function clickiii() {
+    window.alert("The Orchidaceae are a diverse and widespread family of flowering plants, with blooms that are often colourful and fragrant, commonly known as the orchid family. Along with the Asteraceae, they are one of the two largest families of flowering plants. The Orchidaceae have about 28,000 currently accepted species, distributed in about 763 genera. The determination of which family is larger is still under debate, because verified data on the members of such enormous families are continually in flux. Regardless, the number of orchid species is nearly equal to the number of bony fishes, more than twice the number of bird species, and about four times the number of mammal species.");
+}
+function clickiv() {
+    window.alert("Crassula ovata, commonly known as jade plant, lucky plant, money plant or money tree, is a succulent plant with small pink or white flowers that is native to the KwaZulu-Natal and Eastern Cape provinces of South Africa, and Mozambique; it is common as a houseplant worldwide. Much of its popularity stems from the low levels of care needed; the jade plant requires little water and can survive in most indoor conditions. It is sometimes referred to as the money tree; however, Pachira aquatica also has this nickname.");
+}
+function clickv() {
+    window.alert("Money plant is popular and known for bringing positivity, and good luck to the area. As per Vastu as well as Feng Shui, money plants have a strong effect on the financial well being. This air purifying plant is one of the best plants to energize the house by filtering air and increasing oxygen flow.");
+}
+

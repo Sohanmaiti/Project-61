@@ -1,0 +1,104 @@
+body {
+  text-align : center;
+  color : white;
+}
+.line {
+  background-color : white;
+  height : 7px;
+  Width : 55px;
+  border-radius : 20px;
+  margin : auto;
+}
+#about {
+      background-image: linear-gradient(yellow, magenta, cyan);}
+}
+#about img {
+    width: 400px;
+    height: 300px;
+}
+.sec img {
+  height : 200px;
+  width : 300px;
+  border-radius : 400px;
+  margin-top : 10px;
+}
+hr {
+  height : 5px;
+  background-color : black;
+}
+.menu {
+    position: fixed;
+    margin-right: 10px;
+    margin-top: 30px;
+    cursor: pointer;
+    font-family: monospace;
+    list-style: none;
+    z-index: 10;
+}
+.links {
+    float: left;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 9px;
+    padding-left: 9px;
+    font-family: monospace;
+    font-size: 12px;
+}
+.links:hover {
+    background-color: darkgreen;
+}
+ul {
+    list-style-type: none;
+    margin : 0;
+    padding: 5px;
+    overflow: hidden;
+    background-color: lightgreen;
+}
+#favhob {
+    background-image: linear-gradient(purple, red, yellow );
+    color : white;
+}
+.article a:hover {
+    color: aqua;
+    font-weight: bold;
+}
+.secii {
+    background-image: linear-gradient(blue, green, yellow );
+}
+.secii img {
+    width: 400px;
+    height: 300px;
+}
+.secii img:hover {
+ width: 350px;
+    height: 250px;   
+}
+.seciii {
+background-image: linear-gradient(darkblue, blue , yellow, pink)
+}
+.seciii img {
+    height: 350px;
+    width: 250px;
+    margin: 50px;
+    border: solid;
+    border-color: grey;
+    border-width: thick;
+}
+.seciii img:hover {
+    transform: scale(0.9);
+}
+.seciv {
+    background-image: linear-gradient( pink,crimson);
+}
+#mail i {
+    color: white;
+}
+#mail h3 {
+    display: inline;
+    text-shadow: none;
+    color: white;
+}
+#mail iframe {
+    width: 100%;
+}
